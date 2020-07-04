@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "659205795774",
+    "firebase_url": "https://lideratura-bf82f.firebaseio.com",
+    "project_id": "lideratura-bf82f",
+    "storage_bucket": "lideratura-bf82f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659205795774:android:dd77ff7629525b3d",
+        "android_client_info": {
+          "package_name": "com.example.lideraturagaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659205795774-6adc4109un8cig25ed87j5u60b47aa9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvIYuOJvpCq1XatwUTR8LsDN_n8FihrWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659205795774-6adc4109un8cig25ed87j5u60b47aa9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

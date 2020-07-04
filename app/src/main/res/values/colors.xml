@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink">#9b4941</color>
+    <color name="darkerpink">#7A3933</color>
+    <color name="green">#00643b</color>
+    <color name="darkergreen">#00502F</color>
+    <color name="blue">#03BBBB</color>
+    <color name="black">#000000</color>
+    <color name="gold">#BC00AF</color>
+    <color name="darkergold">#C930EC</color>
+    <color name="ss">#5CBEBEBE</color>
+    <color name="loho">#01070E</color>
+
+    <color name="head">#233142</color>
+    <color name="head2">#233142</color>
+    <color name="head3">#f95959</color>
+    <color name="head4">#facf5a</color>
+
+</resources>
